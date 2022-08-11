@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Haruncakmak/getir-react-web-clone.git/static/css/main.a44304b4.css",
+    "main.js": "/Haruncakmak/getir-react-web-clone.git/static/js/main.9b0a0f5a.js",
+    "index.html": "/Haruncakmak/getir-react-web-clone.git/index.html",
+    "main.a44304b4.css.map": "/Haruncakmak/getir-react-web-clone.git/static/css/main.a44304b4.css.map",
+    "main.9b0a0f5a.js.map": "/Haruncakmak/getir-react-web-clone.git/static/js/main.9b0a0f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44304b4.css",
+    "static/js/main.9b0a0f5a.js"
+  ]
+}
